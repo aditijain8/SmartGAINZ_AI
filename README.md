@@ -1,10 +1,11 @@
 <h1>💪 SmartGainz AI – Your Personalized AI Fitness & Diet Coach</h1>
 <br>
-🚀 Live Demo: smart-gainz-ai.vercel.app
+🚀 Live Demo: https://smart-gainz-ai-y6hy.vercel.app/
 
 SmartGainz AI is your intelligent fitness trainer designed to help you smash your health goals with AI-powered precision. This web app generates personalized diet plans by interacting with users through natural voice prompts and smart AI responses. Whether you're bulking, cutting, or just staying healthy — SmartGainz has your back!
 
 🔥 Features
+<br>
 🎙️ Voice Interaction – Uses Vapi Voice AI to ask relevant fitness questions and listen to user input.
 
 🧠 AI Diet Plan Generator – Smart, dynamic, and tailored diet plans created using integrated AI.
@@ -16,7 +17,7 @@ SmartGainz AI is your intelligent fitness trainer designed to help you smash you
 ⚡ Modern Frontend – Developed using Next.js for lightning-fast performance and routing.
 
 📱 Responsive UI – Fully responsive and works smoothly across devices.
-
+<br>
 🛠️ Tech Stack
 Tech	Description
 Next.js	:Frontend framework
@@ -45,7 +46,8 @@ npm run dev
 npx convex dev
 ⚠️ Ensure you have environment variables for Clerk, Convex, Vapi, and OpenAI properly set up
 
-<h3>Screenshots</h3>h3>
+<h3>Screenshots</h3>
+
 ![image](https://github.com/user-attachments/assets/fb3dce49-5787-424e-8ff0-e50f7ad4e7e9)
 
 ![image](https://github.com/user-attachments/assets/85a96533-2a2b-40e8-a27d-bf5ceeeb4b17)
