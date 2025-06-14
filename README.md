@@ -1,36 +1,65 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+💪 SmartGainz AI – Your Personalized AI Fitness & Diet Coach
+🚀 Live Demo: smart-gainz-ai.vercel.app
 
-## Getting Started
+SmartGainz AI is your intelligent fitness trainer designed to help you smash your health goals with AI-powered precision. This web app generates personalized diet plans by interacting with users through natural voice prompts and smart AI responses. Whether you're bulking, cutting, or just staying healthy — SmartGainz has your back!
 
-First, run the development server:
+🔥 Features
+🎙️ Voice Interaction – Uses Vapi Voice AI to ask relevant fitness questions and listen to user input.
 
-```bash
+🧠 AI Diet Plan Generator – Smart, dynamic, and tailored diet plans created using integrated AI.
+
+🔐 Authentication & User Management – Powered by Clerk for secure sign-in/sign-up flows.
+
+📦 Realtime Backend – Built with Convex to store user responses and generated plans efficiently.
+
+⚡ Modern Frontend – Developed using Next.js for lightning-fast performance and routing.
+
+📱 Responsive UI – Fully responsive and works smoothly across devices.
+
+🛠️ Tech Stack
+Tech	Description
+Next.js	:Frontend framework
+Clerk:	Authentication & user sessions
+Convex:	Backend database & logic
+Vapi:	Voice integration for AI prompts
+OpenAI:	For generating personalized diet plans
+Tailwind CSS:	For sleek, responsive UI
+
+<h3>Running the Project Locally</h3>
+bash
+Copy
+Edit
+# 1. Clone the repo
+git clone https://github.com/your-username/smartgainz-ai.git
+
+# 2. Install dependencies
+npm install
+
+# 3. Start the development server
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+# 4. Run convex functions (in another terminal)
+npx convex dev
+⚠️ Ensure you have environment variables for Clerk, Convex, Vapi, and OpenAI properly set up
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Screenshots
+![image](https://github.com/user-attachments/assets/fb3dce49-5787-424e-8ff0-e50f7ad4e7e9)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+ Future Improvements
+🏃‍♂️ Workout Plan Generator
 
-## Learn More
+📈 Health Progress Tracker
 
-To learn more about Next.js, take a look at the following resources:
+🧾 Meal Logging & History
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+💬 Chat-based Coaching Experience
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+🤝 Contributing
+Contributions are welcome! Feel free to fork the repo and submit a pull request.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+📬 Contact
+Have questions or feedback?
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+📧 Aditi Jain – 
+email:jainaditi1818@gmail.com
