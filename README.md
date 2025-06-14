@@ -18,6 +18,7 @@ SmartGainz AI is your intelligent fitness trainer designed to help you smash you
 
 📱 Responsive UI – Fully responsive and works smoothly across devices.
 <br>
+<br>
 🛠️ Tech Stack
 <br>
 Tech	Description
