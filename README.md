@@ -19,13 +19,21 @@ SmartGainz AI is your intelligent fitness trainer designed to help you smash you
 📱 Responsive UI – Fully responsive and works smoothly across devices.
 <br>
 🛠️ Tech Stack
+<br>
 Tech	Description
+<br>
 Next.js	:Frontend framework
+<br>
 Clerk:	Authentication & user sessions
+<br>
 Convex:	Backend database & logic
+<br>
 Vapi:	Voice integration for AI prompts
+<br>
 OpenAI:	For generating personalized diet plans
+<br>
 Tailwind CSS:	For sleek, responsive UI
+<br>
 
 <h3>Running the Project Locally</h3>
 bash
