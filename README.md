@@ -43,7 +43,7 @@ Edit
 <br>
 
 # 1. Clone the repo
-git clone https://github.com/your-username/smartgainz-ai.git
+git clone https://github.com/aditijain8/SmartGAINZ_AI.git
 
 # 2. Install dependencies
 npm install
