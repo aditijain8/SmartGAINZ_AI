@@ -66,8 +66,6 @@ npx convex dev
 
  Future Improvements
  <br>
-🏃‍♂️ Workout Plan Generator
-
 📈 Health Progress Tracker
 
 🧾 Meal Logging & History
